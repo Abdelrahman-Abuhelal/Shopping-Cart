@@ -1,6 +1,6 @@
 # Shopping Cart RestApi
 
-. This is a REST API service for customers to add products to the their cart, submitting and updating their order and receiving an invoice with the order details. 
+This is a REST API service for customers to add products to the their cart, submitting and updating their order and receiving an invoice with the order details. 
 
 # Technologies Used
 * Java                                                                                                                                                      
